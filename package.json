@@ -1,0 +1,16 @@
+{
+  "name": "advent-of-ts-2023-solutions",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "repository": "https://github.com/feder240516/advent-of-ts-2023-solutions.git",
+  "author": "Federico Reina <federicoreinavinchira@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "type-testing": "^0.2.0",
+    "typescript": "^5.3.3"
+  }
+}
